@@ -1,4 +1,4 @@
-=========================================================== DESKTOP PROGRAMMING ===========================================================
+======================== DESKTOP PROGRAMMING ========================
 
 1. Input Menu Restoran: Program harus memiliki data menu makanan dan minuman beserta harganya. Data ini dapat disimpan dalam sebuah array. Setiap item menu harus memiliki nama, harga, dan kategori (makanan, minuman).
 
